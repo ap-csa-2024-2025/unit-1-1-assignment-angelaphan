@@ -1,4 +1,4 @@
-public class Printing
+public class toot
 {
 
     public static void main(String[] args)
